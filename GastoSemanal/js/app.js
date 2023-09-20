@@ -154,3 +154,5 @@ function agregarGastos(e){
         formulario.reset();
 }
 
+console.log("Primera modificacion")
+
